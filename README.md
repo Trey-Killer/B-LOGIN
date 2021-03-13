@@ -4,51 +4,51 @@ Untuk kata perintah di termux
 
 ketik saja :
 
-$ cd ..
+cd ..
 
-$ cd usr
+cd usr
 
-$ cd etc
+cd etc
 
-$ ls
+ls
 
-$ nano bash.bashrc
+nano bash.bashrc
 
 Tulis 
 
 python log.py
 
-$ cd $HOME
+cd $HOME
 
-$ pkg install lolcat
+pkg install lolcat
 
-$ pkg install git
+pkg install git
 
-$ pkg install ruby
+pkg install ruby
 
-$ pkg install cowsay
+pkg install cowsay
 
-$ pkg install python2
+pkg install python2
 
-$ gem install lolcat
+gem install lolcat
 
-$ git clone https://github.com/Trey-Killer/B-LOGIN
+git clone https://github.com/Trey-Killer/B-LOGIN
 
-$ cd B-LOGIN
+cd B-LOGIN
 
-$ ls
+ls
 
-$ cp log.py /$HOME
+cp log.py /$HOME
 
-$ ls
 
-$ nano log.py
 
-$ ls
+nano log.py
 
-$ chmod +x log.py
 
-$ ls
+
+chmod +x log.py
+
+
 
 (Dan buka tab baru)
 
